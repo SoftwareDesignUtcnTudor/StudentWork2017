@@ -1,0 +1,8 @@
+To help out with picking the project, you can use:
+
+- http://nevonprojects.com/project-ideas/software-project-ideas/ - contains a huge list of ideas, some including detailed requirements/specs. Mind you, some are not relevant to this course - please pick something relevant to OOP & Software Design (high-level, able to be modeled in OOP, containing 'business' logic, preferably with a user interface
+- copy a startup you like/use or a project you are curios how it would work (beware not to pick too complex/risky projects). Examples:
+	- Twitter clone - you can use even AWS or Azure for this ( but will probably need a lot of time to get "up-to-speed")
+	- Square clone - do online payments -- you can try this via using a web/desktop form or via a camera (please don't use real-live cards in this case - just print test cards) 
+	- Facebook
+	...
