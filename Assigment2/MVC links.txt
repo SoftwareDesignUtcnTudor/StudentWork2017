@@ -1,0 +1,8 @@
+https://medium.freecodecamp.com/model-view-controller-mvc-explained-through-ordering-drinks-at-the-bar-efcba6255053
+http://www.tomdalling.com/blog/software-design/model-view-controller-explained/
+http://stackoverflow.com/questions/2626803/mvc-model-view-controller-can-it-be-explained-in-simple-terms
+
+
+
+
+
