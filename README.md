@@ -4,7 +4,11 @@
 <br>
 <br>
 
+### Update 24 April ###
 
+Added L9 Exercise
+
+https://github.com/SoftwareDesignUtcnTudor/StudentWork2017/blob/master/Lab_Work/L9%20Package%20and%20class%20design%20principles%20-%20student%20work.pdf
 
 
 ### Update 13 March ###
